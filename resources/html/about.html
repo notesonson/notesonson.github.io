@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, viewport-fit=cover">
+    <title>Notes on Son - About</title>
+    <link rel="stylesheet" type="text/css" href="../css/stylesheet.css">
+    <script defer src="../js/highlighter.js"></script>
+    <script defer src="../js/tone-generator.js"></script>
+</head>
+<body>
+    <main>
+        <h1>About</h1>
+        <p><span class="italic">Notes on Son</span> is an experiment on Mexican <span class="italic">son jarocho</span> music that expands traditional <span class="italic">derecho</span> and <span class="italic">cruzado</span> categories to determine meter and predict <span class="italic">jarana</span> strumming patterns, challenging conventional 6/8 editions while allowing for respectful but creative recreation of the&nbsp;style.</p>
+        <p>This site hosts a <a href="catalog.html">database of transcriptions</a>, available free of charge for further analysis or to be used as a learning&nbsp;tool.</p>
+        <hr>
+        <p class="center">Estimated reading time: 3&nbsp;minutes.</p>
+        <hr>
+        <h2>Technical</h2>
+        <h3>Tuning</h3>
+        <p>Original (captioned <span class="italic">as learned from</span>) transcriptions use <span class="italic">mayor</span> (major) tuning, but a few of the many extant tuning possibilities are shown here for illustrative&nbsp;purposes.</p>
+        <p>Notes are presented from fifth to first course, overlooking register as it is heavily influenced by individual&nbsp;instruments.</p>
+        <p><span class="italic">Corde scordate</span> are cumulative and new changes are marked with white noteheads for&nbsp;clarity.</p>
+        <p>Diagrams are provided for tonic, subdominant, dominant, and some of the most common passing&nbsp;chords.</p>
+        <p>Analysis of extended harmony falls beyond the scope of this&nbsp;work.</p>
+        <p>More tunings will be added as&nbsp;required.</p>
+        <div id="tone-generator">
+            <h4>Tone generator</h4>
+            <div class="flex">
+                <label for="pitch-input"><button id="pitch-tone-button" class="tone-button">Pitch</button> (A&nbsp;=&nbsp;&#x1D465;&nbsp;Hz):</label>
+                <input id="pitch-input" type="number" min="220" max="880">
+            </div>
+            <div class="flex">
+                <label for="transposition-input">Transposition (semitones)*:</label>
+                <input id="transposition-input" type="number" min="-12" max="12">
+            </div>
+            <fieldset>
+                <legend class="center"><span class="italic">Scordature</span> from <span class="italic">mayor</span> tuning&nbsp;(semitones)*:</legend>
+                <div class="flex">
+                    <input id="course5-scordatura-input" class="scordatura-input" type="number" min="-12" max="12">
+                    <input id="course4-scordatura-input" class="scordatura-input" type="number" min="-12" max="12">
+                    <input id="course3-scordatura-input" class="scordatura-input" type="number" min="-12" max="12">
+                    <input id="course2-scordatura-input" class="scordatura-input" type="number" min="-12" max="12">
+                    <input id="course1-scordatura-input" class="scordatura-input" type="number" min="-12" max="12">
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend class="center">Cent adjustment*:</legend>
+                <div class="flex">
+                    <input id="course5-cent-input" class="cent-input" type="number" min="-100" max="100">
+                    <input id="course4-cent-input" class="cent-input" type="number" min="-100" max="100">
+                    <input id="course3-cent-input" class="cent-input" type="number" min="-100" max="100">
+                    <input id="course2-cent-input" class="cent-input" type="number" min="-100" max="100">
+                    <input id="course1-cent-input" class="cent-input" type="number" min="-100" max="100">
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend class="center">Courses:</legend>
+                <div class="flex">
+                    <button id="course5-tone-button" class="tone-button">5th</button>
+                    <button id="course4-tone-button" class="tone-button">4th</button>
+                    <button id="course3-tone-button" class="tone-button">3rd</button>
+                    <button id="course2-tone-button" class="tone-button">2nd</button>
+                    <button id="course1-tone-button" class="tone-button">1st</button>
+                </div>
+            </fieldset>
+            <div class="flex">
+                <button id="stop-button">Stop</button>
+                <button id="reset-button">Reset</button>
+            </div>
+            <p class="right">*Calculations based on&nbsp;12-TET.</p>
+        </div>
+        <h4>Tunings</h4>
+        <figure>
+            <img src="../svg/tuning-mayor.svg">
+            <figcaption><span class="italic">Mayor</span> tuning, also called <span class="italic">por cuatro</span> (by four) or <span class="italic">universal</span>, closely resembling Renaissance guitar's <span class="italic">temple nuevo</span> (new temper), ukulele’s gCEA, and other <span class="italic">tiple</span>-type instrument&nbsp;tunings.</figcaption>
+            <button class="scordatura-loader" data-scordatura="0,0,0,0,0">Load on tone&nbsp;generator</button>
+        </figure>
+        <figure>
+            <img src="../svg/tuning-menor.svg">
+            <figcaption><span class="italic">Menor</span> (minor) tuning, also called <span class="italic">por dos</span> (by&nbsp;two).</figcaption>
+            <button class="scordatura-loader" data-scordatura="0,0,0,0,-2">Load on tone&nbsp;generator</button>
+        </figure>
+        <figure>
+            <img src="../svg/tuning-chinanteco-mayor.svg">
+            <figcaption><span class="italic">Chinanteco</span> or <span class="italic">Chinalteco</span> (demonym that means <span class="italic">people of the floating gardens</span>) <span class="italic">mayor</span>&nbsp;tuning.</figcaption>
+            <button class="scordatura-loader" data-scordatura="0,0,1,0,-5">Load on tone&nbsp;generator</button>
+        </figure>
+        <figure>
+            <img src="../svg/tuning-chinanteco-menor.svg">
+            <figcaption><span class="italic">Chinanteco menor</span>&nbsp;tuning</figcaption>
+            <button class="scordatura-loader" data-scordatura="0,0,1,0,-5">Load on tone&nbsp;generator</button>
+        </figure>
+        <figure id="tuning-cruzado">
+            <img src="../svg/tuning-cruzado.svg">
+            <figcaption><span class="italic">Cruzado</span> (crossed) tuning</figcaption>
+            <button class="scordatura-loader" data-scordatura="0,2,3,2,0">Load on tone&nbsp;generator</button>
+        </figure>
+        <figure id="tuning-bandola">
+            <img src="../svg/tuning-bandola.svg">
+            <figcaption><span class="italic">Bandola</span> (<span class="italic">bandurria</span>, <span class="italic">pandura</span>, 3-stringed lute) tuning, also called <span class="italic">menor obligado</span> (forced&nbsp;minor).</figcaption>
+            <button class="scordatura-loader" data-scordatura="0,2,3,3,0">Load on tone&nbsp;generator</button>
+        </figure>
+        <p>Consider that <span class="italic">mayor</span> and <span class="italic">menor</span> refer to fingering patterns rather than harmonic modes, and that <span class="italic">cruzado</span> tuning is unrelated to the <span class="italic">cruzado</span> rhythmic categories discussed&nbsp;later.</p>
+        <h3>Strumming</h3>
+        <p>Transcriptions remove ornaments and split music in bars of 6 notes starting with the singing line, making strumming up or down the only&nbsp;options.</p>
+        <p>The set of all possible strumming patterns or permutations is ordered in the fashion of a 6-bit binary system, and numbered from 1 to&nbsp;64.</p>
+        <figure>
+            <img src="../svg/permutations.svg">
+            <figcaption>Permutations</figcaption>
+        </figure>
+        <p>Only a total of 10 permutations are likely to be useful for playing <span class="italic">son</span>: #18, #21, #26, and #30 for 2+2+2 or <span class="italic">derecho</span> (straight) bars; #10, #19, #23, #27, and #28 for 3+3 or <span class="italic">cruzado</span> bars; and #22 for both&nbsp;classes.</p>
+        <div id="strumming-patterns">
+            <figure>
+                <img src="../svg/permutations-derecho.svg">
+                <figcaption><span class="italic">Derecho</span> permutations</figcaption>
+            </figure>
+            <figure>
+                <img src="../svg/permutations-cruzado.svg">
+                <figcaption><span class="italic">Cruzado</span> permutations</figcaption>
+            </figure>
+        </div>
+        <p>Based on preliminary observations, it appears that permutations of the same class may be used interchangeably, with rapid chord changes favoring #22, as in the case of mixed <span class="italic">cruzado</span> <span class="italic">sones</span> (e.g. <span class="italic"><a href="buscapies.html#buscapies-mixed-cruzado">Buscapiés</a>)</span>, and with #10 being typical in pure <span class="italic">cruzado</span> (e.g. <a href="zapateado.html"><span class="italic">Zapateado</span></a>) or mixed <span class="italic">derecho sones</span> (e.g.&nbsp;<a href="siquisiri.html"><span class="italic">Siquisirí</span></a>).</p>
+        <p>Use of permutations will be tracked for later statistical&nbsp;examination.</p>
+        <h3>Meter</h3>
+        <p id="meter-categories">Compound meter <span class="italic">sones</span> will be divided into four categories: pure <span class="italic">derecho</span>, with only <span class="italic">derecho</span> permutations (2+2+2); pure <span class="italic">cruzado</span>, with only <span class="italic">cruzado</span> permutations (3+3); mixed <span class="italic">derecho</span>, alternating between <span class="italic">derecho</span> permutations and <span class="italic">cruzado</span> permutations #10, #27, or #28; and mixed <span class="italic">cruzado</span>, alternating between <span class="italic">derecho</span> permutations and <span class="italic">cruzado</span> permutation&nbsp;#19.</p>
+        <h3>Limitations</h3>
+        <p id="simple-meter"><span class="italic">Sones</span> in simple meter (e.g. <a href="bamba.html"><span class="italic">Bamba</span></a>) are not consistent with permutations, and will be marked as&nbsp;such.</p>
+        <p>Mixed <span class="italic">sones</span> offer two reasonable, overlapping transcription choices: #22&nbsp;(2+2+2) + #19&nbsp;(3+3) or #10&nbsp;(3+3) + #22&nbsp;(2+2+2). The choice that best matches chord progressions and singing lines will be&nbsp;selected.</p>
+        <figure>
+            <img src="../svg/permutations-overlapping.svg">
+            <figcaption>Mixed <span class="italic">son</span> permutations&nbsp;overlapping.</figcaption>
+        </figure>
+        <p id="ornamentation">Pure <span class="italic">derecho sones</span> are often ornamented with <span class="italic">cruzado</span> strumming patterns, but not with enough consistency to be categorized as mixed <span class="italic">derecho</span> (e.g. <a href="morena.html#morena-pure-derecho"><span class="italic">Morena</span></a>). As with all ornaments, these variations will be&nbsp;ignored.</p>
+        <p id="regional-variations">Finally, there are several regional variations that will be indicated whenever relevant: mixed <span class="italic">derecho sones</span> can be played as pure <span class="italic">derecho</span>; mixed <span class="italic">cruzado sones</span> can be played as pure <span class="italic">cruzado</span>; and pure <span class="italic">cruzado sones</span> are sometimes played as pure&nbsp;<span class="italic">derecho</span>.</p>
+        <h3>Results</h3>
+        <p class="center">To be published as data is&nbsp;processed.</p>
+        <h3>Recommended reading</h3>
+        <p>For more information on tuning, see Argüello’s <a href="https://www.academia.edu/65910226" target="_blank" title="Argüello Hernández, Luis Miguel (2021). The voices of the jarana: Approach to jarana tunings in son jarocho (Licentiateship Diploma Thesis). London College of Music, University of West London."><span class="italic">The voices of the jarana</span></a>, a comprehensive work on popular and rare tunings including the beautifully-named <span class="italic">alta prima</span> (high first, most excelent), <span class="italic">inventada</span> (made-up), <span class="italic">la trampa</span> (the trickery), and <span class="italic">mañosidad</span> (unorthodox&nbsp;dexterity).</p>
+        <p>To know more about the intersections between <span class="italic">son jarocho</span> and the historically informed performance movement, see Rzajev’s <a href="https://tesiunam.dgb.unam.mx/F/?func=find-b&find_code=WRD&request=Entre+lloronas+e+ympossibles&local_base=TES01" target="_blank" title="Rzajev Lomelí, Emil (2023). Entre lloronas e ympossibles: la configuración del son barrocho (Master Degree Thesis). Facultad de Música, Universidad Nacional Autónoma de México."><span class="italic">Entre lloronas e ympossibles</span></a> (in&nbsp;Spanish).</p>
+        <h3>Software info</h3>
+        <p>Graphics made using Inkscape and Dorico Pro, all project files hosted on&nbsp;<a href="https://github.com/notesonson/notesonson.github.io" target="_blank">GitHub</a>.</p>
+        <h3>Updates</h3>
+        <p>September&nbsp;4th,&nbsp;2023: Added pure <span class="italic">derecho</span> version with <span class="italic">justicia</span> in <a href="#tuning-bandola"><span class="italic">bandola</span> tuning</a> to&nbsp;<a href="fandanguito.html"><span class="italic">Fandanguito</span></a>.</p>
+    </main>
+    <footer>
+        <hr>
+        <h2>Contact</h2>
+        <p class="center"><a href="mailto:notesonson@icloud.com" target="_blank">notesonson@icloud.com</a></p>
+        <h2>License</h2>
+        <p>All original work (including research data, text, transcriptions, and software) is licensed under a <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International Public&nbsp;License</a>.</p>
+    </footer>
+    <nav id="nav">
+        <ul class="flex">
+            <li>About</li>
+            <li><a href="catalog.html">Catalog</a></li>
+        </ul>
+    </nav>
+</body>
+</html>
