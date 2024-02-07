@@ -173,6 +173,14 @@ ul {
   margin: 0.5rem auto;
 }
 
+#search-input::placeholder {
+  opacity: 1;
+}
+
+#search-input:focus::placeholder {
+  opacity: 0;
+}
+
 #tone-generator {
   width: 30rem;
   margin: 1.97rem auto;
