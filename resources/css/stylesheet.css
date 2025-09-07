@@ -85,7 +85,7 @@ figure, h1, h2, h3, h4, ul, .center, #search-input {
 }
 
 figure img {
-  margin: 1.5rem auto;
+  margin: 1.5rem auto 0;
   cursor: zoom-in;
 }
 
