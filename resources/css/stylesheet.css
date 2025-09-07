@@ -85,7 +85,7 @@ figure, h1, h2, h3, h4, ul, .center, #search-input {
 }
 
 figure img {
-  padding-top: 1.5rem;
+  margin: 1.5rem auto;
   cursor: zoom-in;
 }
 
