@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<versionedFrettedInstrumentData>
+	<fileVersion>1.1143</fileVersion>
+	<frettedInstrumentData>
+		<tabStaveClefID>clef.tab</tabStaveClefID>
+		<useCapoFingeringOnTab>true</useCapoFingeringOnTab>
+		<tuning>
+			<name>5 Strings: G4, D5, G5, B5, G5</name>
+			<stringTunings array="true">
+				<stringTuning>
+					<openRationalMIDIPitch>79</openRationalMIDIPitch>
+					<openPitchSpelling>G</openPitchSpelling>
+					<order>1</order>
+				</stringTuning>
+				<stringTuning>
+					<openRationalMIDIPitch>83</openRationalMIDIPitch>
+					<openPitchSpelling>B</openPitchSpelling>
+					<order>2</order>
+				</stringTuning>
+				<stringTuning>
+					<openRationalMIDIPitch>79</openRationalMIDIPitch>
+					<openPitchSpelling>G</openPitchSpelling>
+					<order>3</order>
+				</stringTuning>
+				<stringTuning>
+					<openRationalMIDIPitch>74</openRationalMIDIPitch>
+					<openPitchSpelling>D</openPitchSpelling>
+					<order>4</order>
+				</stringTuning>
+				<stringTuning>
+					<openRationalMIDIPitch>67</openRationalMIDIPitch>
+					<openPitchSpelling>G</openPitchSpelling>
+					<order>5</order>
+				</stringTuning>
+			</stringTunings>
+		</tuning>
+		<strings array="true">
+			<string>
+				<numberOfFrets>12</numberOfFrets>
+				<startingFret>0</startingFret>
+				<order>1</order>
+			</string>
+			<string>
+				<numberOfFrets>12</numberOfFrets>
+				<startingFret>0</startingFret>
+				<order>2</order>
+			</string>
+			<string>
+				<numberOfFrets>12</numberOfFrets>
+				<startingFret>0</startingFret>
+				<order>3</order>
+			</string>
+			<string>
+				<numberOfFrets>12</numberOfFrets>
+				<startingFret>0</startingFret>
+				<order>4</order>
+			</string>
+			<string>
+				<numberOfFrets>12</numberOfFrets>
+				<startingFret>0</startingFret>
+				<order>5</order>
+			</string>
+		</strings>
+	</frettedInstrumentData>
+</versionedFrettedInstrumentData>

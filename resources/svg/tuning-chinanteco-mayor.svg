@@ -1,0 +1,5065 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="249.76666mm"
+   height="27.532436mm"
+   viewBox="0 0 708 78.044704"
+   version="1.2"
+   id="svg347"
+   sodipodi:docname="tuning-chinanteco-mayor.svg"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview347"
+     pagecolor="none"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.28921569"
+     inkscape:cx="471.96609"
+     inkscape:cy="345.7627"
+     inkscape:window-width="1312"
+     inkscape:window-height="449"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg347" />
+  <title
+     id="title1">01 - Full score - Untitled Project 1 - 001</title>
+  <desc
+     id="desc1">Dorico</desc>
+  <defs
+     id="defs1" />
+  <g
+     fill="none"
+     stroke="#000000"
+     stroke-width="1"
+     fill-rule="evenodd"
+     stroke-linecap="square"
+     stroke-linejoin="bevel"
+     id="g347"
+     transform="translate(-42,-47.2553)">
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.62"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'.AppleSystemUIFont'"
+       font-size="13px"
+       font-weight="400"
+       font-style="normal"
+       id="g5">
+      <path
+         id="polyline1"
+         style="vector-effect:none"
+         d="M 42,101.84 H 750" />
+      <path
+         id="polyline2"
+         style="vector-effect:none"
+         d="M 42,96.88 H 750" />
+      <path
+         id="polyline3"
+         style="vector-effect:none"
+         d="M 42,91.92 H 750" />
+      <path
+         id="polyline4"
+         style="vector-effect:none"
+         d="M 42,86.96 H 750" />
+      <path
+         id="polyline5"
+         style="vector-effect:none"
+         d="M 42,82 H 750" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.992"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'.AppleSystemUIFont'"
+       font-size="13px"
+       font-weight="400"
+       font-style="normal"
+       id="g7">
+      <path
+         id="polyline6"
+         style="vector-effect:none"
+         d="m 244.958,81.69 v 20.46" />
+      <path
+         id="polyline7"
+         style="vector-effect:none"
+         d="m 744.544,81.69 v 20.46" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="2.48"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'.AppleSystemUIFont'"
+       font-size="13px"
+       font-weight="400"
+       font-style="normal"
+       id="g8">
+      <path
+         id="polyline8"
+         style="vector-effect:none"
+         d="m 748.76,81.69 v 20.46" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'.AppleSystemUIFont'"
+       font-size="13px"
+       font-weight="400"
+       font-style="normal"
+       id="g31">
+      <path
+         id="polyline9"
+         style="vector-effect:none"
+         d="M 67.0701,111.76 H 77.6162" />
+      <path
+         id="polyline10"
+         style="vector-effect:none"
+         d="M 67.0701,106.8 H 77.6162" />
+      <path
+         id="polyline11"
+         style="vector-effect:none"
+         d="m 102.152,106.8 h 10.546" />
+      <path
+         id="polyline12"
+         style="vector-effect:none"
+         d="m 172.315,111.76 h 10.546" />
+      <path
+         id="polyline13"
+         style="vector-effect:none"
+         d="m 172.315,106.8 h 10.546" />
+      <path
+         id="polyline14"
+         style="vector-effect:none"
+         d="m 207.397,121.68 h 10.546" />
+      <path
+         id="polyline15"
+         style="vector-effect:none"
+         d="m 207.397,116.72 h 10.546" />
+      <path
+         id="polyline16"
+         style="vector-effect:none"
+         d="m 207.397,111.76 h 10.546" />
+      <path
+         id="polyline17"
+         style="vector-effect:none"
+         d="m 207.397,106.8 h 10.546" />
+      <path
+         id="polyline18"
+         style="vector-effect:none"
+         d="m 250.92,111.76 h 13.148" />
+      <path
+         id="polyline19"
+         style="vector-effect:none"
+         d="m 250.92,106.8 h 13.148" />
+      <path
+         id="polyline20"
+         style="vector-effect:none"
+         d="m 321.084,111.76 h 13.148" />
+      <path
+         id="polyline21"
+         style="vector-effect:none"
+         d="m 321.084,106.8 h 15.158" />
+      <path
+         id="polyline22"
+         style="vector-effect:none"
+         d="m 391.247,111.76 h 13.148" />
+      <path
+         id="polyline23"
+         style="vector-effect:none"
+         d="m 391.247,106.8 h 15.159" />
+      <path
+         id="polyline24"
+         style="vector-effect:none"
+         d="m 461.411,111.76 h 13.147" />
+      <path
+         id="polyline25"
+         style="vector-effect:none"
+         d="m 461.411,106.8 h 13.147" />
+      <path
+         id="polyline26"
+         style="vector-effect:none"
+         d="m 531.574,111.76 h 13.148" />
+      <path
+         id="polyline27"
+         style="vector-effect:none"
+         d="m 531.574,106.8 h 13.148" />
+      <path
+         id="polyline28"
+         style="vector-effect:none"
+         d="m 601.737,111.76 h 13.148" />
+      <path
+         id="polyline29"
+         style="vector-effect:none"
+         d="m 601.737,106.8 h 13.148" />
+      <path
+         id="polyline30"
+         style="vector-effect:none"
+         d="m 671.901,111.76 h 13.147" />
+      <path
+         id="polyline31"
+         style="vector-effect:none"
+         d="m 671.901,106.8 h 15.158" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,471.925,55.5053)"
+       font-family="'Bravura Text'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g32" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,471.925,55.5053)"
+       font-family="'Bravura Text'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g33">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 3.652,-10.406 c -1.364,0 -2.09,0.55 -2.64,1.122 0,0 0,-6.6 0,-6.798 0,-0.198 -0.066,-0.418 -0.506,-0.418 -0.396,0 -0.484,0.242 -0.484,0.396 0,0.176 0,15.84 0,15.84 0,0 0.088,0.286 0.22,0.286 0.374,0 6.006,-3.146 6.006,-7.788 0,-1.782 -1.144,-2.64 -2.596,-2.64 m -2.486,8.514 c -0.088,0 -0.154,-0.088 -0.154,-0.154 0,0 0,-2.552 0,-5.5 0.528,-0.968 1.342,-1.474 1.936,-1.474 1.034,0 1.562,0.704 1.562,2.002 0,1.694 -1.76,4.576 -3.344,5.126"
+         id="path32" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,471.925,55.5053)"
+       font-family="'Bravura Text'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g34">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text33" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,542.089,55.5053)"
+       font-family="'Bravura Text'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g35" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,542.089,55.5053)"
+       font-family="'Bravura Text'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g36">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 3.652,-10.406 c -1.364,0 -2.09,0.55 -2.64,1.122 0,0 0,-6.6 0,-6.798 0,-0.198 -0.066,-0.418 -0.506,-0.418 -0.396,0 -0.484,0.242 -0.484,0.396 0,0.176 0,15.84 0,15.84 0,0 0.088,0.286 0.22,0.286 0.374,0 6.006,-3.146 6.006,-7.788 0,-1.782 -1.144,-2.64 -2.596,-2.64 m -2.486,8.514 c -0.088,0 -0.154,-0.088 -0.154,-0.154 0,0 0,-2.552 0,-5.5 0.528,-0.968 1.342,-1.474 1.936,-1.474 1.034,0 1.562,0.704 1.562,2.002 0,1.694 -1.76,4.576 -3.344,5.126"
+         id="path35" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,542.089,55.5053)"
+       font-family="'Bravura Text'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g37">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text36" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,69.0541,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g38" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,69.0541,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g39">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 3.96,0 8.84,-3.68 8.84,-7.48 0,-2.24 -1.8,-3.72 -4.36,-3.72 C 3.92,-5.6 0,-1.96 0,1.88 0,4.2 1.92,5.6 4.32,5.6"
+         id="path38" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,69.0541,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g40">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text39" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,69.0541,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g41" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,69.0541,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g42">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 3.96,0 8.84,-3.68 8.84,-7.48 0,-2.24 -1.8,-3.72 -4.36,-3.72 C 3.92,-5.6 0,-1.96 0,1.88 0,4.2 1.92,5.6 4.32,5.6"
+         id="path41" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,69.0541,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g43">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text42" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,66.8744,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g44" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,66.8744,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g45">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 4.36,6.96 C 3,5.92 2.52,5.32 2.08,4.04 1.68,2.88 1.48,1.6 1.48,-0.08 c 0,-3.16 0.44,-4.84 2.88,-6.88 L 4.2,-7.24 C 1.56,-5.44 0,-3.4 0,-0.04 0,3.08 1.6,5.6 4.16,7.24 l 0.2,-0.28"
+         id="path44" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,66.8744,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g46">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text45" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,76.3509,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g47" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,76.3509,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g48">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m -1.2,7.24 c 2.56,-1.6 4.12,-4.2 4.12,-7.28 0,-3.32 -1.56,-5.48 -4.2,-7.2 l -0.16,0.28 c 2.48,2 2.92,3.72 2.92,6.88 0,1.68 -0.2,2.96 -0.6,4.12 -0.48,1.28 -0.96,1.88 -2.32,2.92 l 0.24,0.28"
+         id="path47" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,76.3509,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g49">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text48" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,104.136,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g50" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,104.136,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g51">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 3.96,0 8.84,-3.68 8.84,-7.48 0,-2.24 -1.8,-3.72 -4.36,-3.72 C 3.92,-5.6 0,-1.96 0,1.88 0,4.2 1.92,5.6 4.32,5.6"
+         id="path50" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,104.136,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g52">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text51" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,139.217,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g53" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,139.217,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g54">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 7.36,0 8.84,-6 8.84,-7.44 0,-2.28 -1.8,-3.76 -4.4,-3.76 C 2.08,-5.6 0,-0.44 0,1.88 0,4.24 1.88,5.6 4.32,5.6 M 7.72,2.04 C 5.72,3.4 4.32,3.88 3.36,3.88 2.44,3.88 1.88,3.4 1.6,2.84 1.44,2.6 1.32,2.28 1.32,1.96 c 0,-2.16 6.44,-5.72 8.56,-5.72 0.84,0 1.32,0.4 1.64,0.96 0.12,0.24 0.24,0.52 0.24,0.84 0,0.88 -0.92,1.96 -4.04,4"
+         id="path53" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,139.217,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g55">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text54" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,174.299,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g56" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,174.299,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g57">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 3.96,0 8.84,-3.68 8.84,-7.48 0,-2.24 -1.8,-3.72 -4.36,-3.72 C 3.92,-5.6 0,-1.96 0,1.88 0,4.2 1.92,5.6 4.32,5.6"
+         id="path56" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,174.299,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g58">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text57" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,174.299,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g59" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,174.299,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g60">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 3.96,0 8.84,-3.68 8.84,-7.48 0,-2.24 -1.8,-3.72 -4.36,-3.72 C 3.92,-5.6 0,-1.96 0,1.88 0,4.2 1.92,5.6 4.32,5.6"
+         id="path59" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,174.299,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g61">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text60" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,170.445,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g62" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,170.445,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g63">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 4.36,6.96 C 3,5.92 2.52,5.32 2.08,4.04 1.68,2.88 1.48,1.6 1.48,-0.08 c 0,-3.16 0.44,-4.84 2.88,-6.88 L 4.2,-7.24 C 1.56,-5.44 0,-3.4 0,-0.04 0,3.08 1.6,5.6 4.16,7.24 l 0.2,-0.28"
+         id="path62" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,170.445,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g64">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text63" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,183.27,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g65" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,183.27,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g66">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m -1.2,7.24 c 2.56,-1.6 4.12,-4.2 4.12,-7.28 0,-3.32 -1.56,-5.48 -4.2,-7.2 l -0.16,0.28 c 2.48,2 2.92,3.72 2.92,6.88 0,1.68 -0.2,2.96 -0.6,4.12 -0.48,1.28 -0.96,1.88 -2.32,2.92 l 0.24,0.28"
+         id="path65" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,183.27,111.76)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g67">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text66" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,209.381,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g68" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,209.381,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g69">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 7.36,0 8.84,-6 8.84,-7.44 0,-2.28 -1.8,-3.76 -4.4,-3.76 C 2.08,-5.6 0,-0.44 0,1.88 0,4.24 1.88,5.6 4.32,5.6 M 7.72,2.04 C 5.72,3.4 4.32,3.88 3.36,3.88 2.44,3.88 1.88,3.4 1.6,2.84 1.44,2.6 1.32,2.28 1.32,1.96 c 0,-2.16 6.44,-5.72 8.56,-5.72 0.84,0 1.32,0.4 1.64,0.96 0.12,0.24 0.24,0.52 0.24,0.84 0,0.88 -0.92,1.96 -4.04,4"
+         id="path68" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,209.381,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g70">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text69" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,209.381,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g71" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,209.381,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g72">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 4.32,5.6 c 7.36,0 8.84,-6 8.84,-7.44 0,-2.28 -1.8,-3.76 -4.4,-3.76 C 2.08,-5.6 0,-0.44 0,1.88 0,4.24 1.88,5.6 4.32,5.6 M 7.72,2.04 C 5.72,3.4 4.32,3.88 3.36,3.88 2.44,3.88 1.88,3.4 1.6,2.84 1.44,2.6 1.32,2.28 1.32,1.96 c 0,-2.16 6.44,-5.72 8.56,-5.72 0.84,0 1.32,0.4 1.64,0.96 0.12,0.24 0.24,0.52 0.24,0.84 0,0.88 -0.92,1.96 -4.04,4"
+         id="path71" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,209.381,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g73">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text72" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,205.527,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g74" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,205.527,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g75">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 4.36,6.96 C 3,5.92 2.52,5.32 2.08,4.04 1.68,2.88 1.48,1.6 1.48,-0.08 c 0,-3.16 0.44,-4.84 2.88,-6.88 L 4.2,-7.24 C 1.56,-5.44 0,-3.4 0,-0.04 0,3.08 1.6,5.6 4.16,7.24 l 0.2,-0.28"
+         id="path74" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,205.527,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g76">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text75" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,218.352,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g77" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,218.352,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g78">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m -1.2,7.24 c 2.56,-1.6 4.12,-4.2 4.12,-7.28 0,-3.32 -1.56,-5.48 -4.2,-7.2 l -0.16,0.28 c 2.48,2 2.92,3.72 2.92,6.88 0,1.68 -0.2,2.96 -0.6,4.12 -0.48,1.28 -0.96,1.88 -2.32,2.92 l 0.24,0.28"
+         id="path77" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,218.352,121.68)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g79">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text78" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g80" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,252.904,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g81">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path80" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g82">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text81" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g83" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,252.904,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g84">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path83" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g85">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text84" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g86" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,252.904,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g87">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path86" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g88">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text87" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g89" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,252.904,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g90">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path89" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,252.904,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g91">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text90" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g92" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,323.068,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g93">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path92" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g94">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text93" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g95" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,323.068,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g96">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path95" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g97">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text96" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g98" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,323.068,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g99">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path98" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g100">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text99" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g101" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,323.068,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g102">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path101" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,323.068,94.4)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g103">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text102" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,331.652,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g104" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,331.652,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g105">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path104" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,331.652,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g106">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text105" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,387.476,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g107" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,387.476,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g108">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 0.48,6.8 C 0.6,6.96 0.72,7 0.84,7 0.96,7 1.08,6.92 1.08,6.92 2.28,6.24 3.24,5.16 4.24,4.48 7.8,2 9.04,-0.44 9.04,-2.28 9.04,-4.56 7.28,-6 5.44,-6.12 c -0.68,0 -1.64,0.32 -2.2,0.68 -0.24,0.2 -0.68,0.56 -0.88,0.56 -0.08,0 -0.12,0 -0.2,-0.04 C 1.88,-5.04 1.72,-5.32 1.72,-5.6 1.76,-6.48 2,-16.08 2,-16.88 c 0,-0.44 -0.36,-0.68 -0.76,-0.68 -0.56,0 -1.2,0.4 -1.24,1.12 0,0 0.16,22.84 0.48,23.24 m 1.4,-3.56 c 0,0 -0.12,-2.4 -0.12,-4 0,-0.64 0.04,-1.12 0.08,-1.28 C 2.12,-2.84 3.72,-4 4.64,-4 5.8,-4 6.28,-2.68 6.28,-1.68 6.28,0.48 4.44,2.64 2.72,3.72 2.56,3.8 2.44,3.84 2.32,3.84 1.96,3.84 1.88,3.44 1.88,3.24"
+         id="path107" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,387.476,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g109">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text108" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g110" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,393.231,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g111">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path110" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g112">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text111" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g113" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,393.231,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g114">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path113" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g115">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text114" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g116" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,393.231,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g117">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path116" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g118">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text117" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g119" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,393.231,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g120">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path119" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,393.231,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g121">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text120" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,401.816,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g122" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,401.816,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g123">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path122" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,401.816,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g124">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text123" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,457.639,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g125" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,457.639,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g126">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 0.48,6.8 C 0.6,6.96 0.72,7 0.84,7 0.96,7 1.08,6.92 1.08,6.92 2.28,6.24 3.24,5.16 4.24,4.48 7.8,2 9.04,-0.44 9.04,-2.28 9.04,-4.56 7.28,-6 5.44,-6.12 c -0.68,0 -1.64,0.32 -2.2,0.68 -0.24,0.2 -0.68,0.56 -0.88,0.56 -0.08,0 -0.12,0 -0.2,-0.04 C 1.88,-5.04 1.72,-5.32 1.72,-5.6 1.76,-6.48 2,-16.08 2,-16.88 c 0,-0.44 -0.36,-0.68 -0.76,-0.68 -0.56,0 -1.2,0.4 -1.24,1.12 0,0 0.16,22.84 0.48,23.24 m 1.4,-3.56 c 0,0 -0.12,-2.4 -0.12,-4 0,-0.64 0.04,-1.12 0.08,-1.28 C 2.12,-2.84 3.72,-4 4.64,-4 5.8,-4 6.28,-2.68 6.28,-1.68 6.28,0.48 4.44,2.64 2.72,3.72 2.56,3.8 2.44,3.84 2.32,3.84 1.96,3.84 1.88,3.44 1.88,3.24"
+         id="path125" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,457.639,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g127">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text126" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g128" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,463.395,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g129">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path128" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g130">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text129" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g131" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,463.395,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g132">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path131" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g133">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text132" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g134" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,463.395,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g135">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path134" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g136">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text135" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g137" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,463.395,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g138">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path137" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.395,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g139">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text138" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,527.802,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g140" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,527.802,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g141">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 0.48,6.8 C 0.6,6.96 0.72,7 0.84,7 0.96,7 1.08,6.92 1.08,6.92 2.28,6.24 3.24,5.16 4.24,4.48 7.8,2 9.04,-0.44 9.04,-2.28 9.04,-4.56 7.28,-6 5.44,-6.12 c -0.68,0 -1.64,0.32 -2.2,0.68 -0.24,0.2 -0.68,0.56 -0.88,0.56 -0.08,0 -0.12,0 -0.2,-0.04 C 1.88,-5.04 1.72,-5.32 1.72,-5.6 1.76,-6.48 2,-16.08 2,-16.88 c 0,-0.44 -0.36,-0.68 -0.76,-0.68 -0.56,0 -1.2,0.4 -1.24,1.12 0,0 0.16,22.84 0.48,23.24 m 1.4,-3.56 c 0,0 -0.12,-2.4 -0.12,-4 0,-0.64 0.04,-1.12 0.08,-1.28 C 2.12,-2.84 3.72,-4 4.64,-4 5.8,-4 6.28,-2.68 6.28,-1.68 6.28,0.48 4.44,2.64 2.72,3.72 2.56,3.8 2.44,3.84 2.32,3.84 1.96,3.84 1.88,3.44 1.88,3.24"
+         id="path140" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,527.802,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g142">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text141" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g143" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,533.558,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g144">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path143" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g145">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text144" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g146" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,533.558,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g147">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path146" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g148">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text147" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g149" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,533.558,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g150">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path149" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,99.36)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g151">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text150" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g152" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,533.558,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g153">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path152" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,533.558,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g154">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text153" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,542.142,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g155" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,542.142,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g156">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path155" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,542.142,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g157">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text156" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,597.966,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g158" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,597.966,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g159">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 0.48,6.8 C 0.6,6.96 0.72,7 0.84,7 0.96,7 1.08,6.92 1.08,6.92 2.28,6.24 3.24,5.16 4.24,4.48 7.8,2 9.04,-0.44 9.04,-2.28 9.04,-4.56 7.28,-6 5.44,-6.12 c -0.68,0 -1.64,0.32 -2.2,0.68 -0.24,0.2 -0.68,0.56 -0.88,0.56 -0.08,0 -0.12,0 -0.2,-0.04 C 1.88,-5.04 1.72,-5.32 1.72,-5.6 1.76,-6.48 2,-16.08 2,-16.88 c 0,-0.44 -0.36,-0.68 -0.76,-0.68 -0.56,0 -1.2,0.4 -1.24,1.12 0,0 0.16,22.84 0.48,23.24 m 1.4,-3.56 c 0,0 -0.12,-2.4 -0.12,-4 0,-0.64 0.04,-1.12 0.08,-1.28 C 2.12,-2.84 3.72,-4 4.64,-4 5.8,-4 6.28,-2.68 6.28,-1.68 6.28,0.48 4.44,2.64 2.72,3.72 2.56,3.8 2.44,3.84 2.32,3.84 1.96,3.84 1.88,3.44 1.88,3.24"
+         id="path158" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,597.966,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g160">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text159" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g161" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,603.721,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g162">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path161" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g163">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text162" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g164" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,603.721,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g165">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path164" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g166">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text165" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,101.84)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g167" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,603.721,101.84)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g168">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path167" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,101.84)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g169">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text168" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g170" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,603.721,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g171">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path170" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g172">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text171" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g173" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,603.721,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g174">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path173" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.721,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g175">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text174" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,668.129,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g176" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,668.129,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g177">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="M 0.48,6.8 C 0.6,6.96 0.72,7 0.84,7 0.96,7 1.08,6.92 1.08,6.92 2.28,6.24 3.24,5.16 4.24,4.48 7.8,2 9.04,-0.44 9.04,-2.28 9.04,-4.56 7.28,-6 5.44,-6.12 c -0.68,0 -1.64,0.32 -2.2,0.68 -0.24,0.2 -0.68,0.56 -0.88,0.56 -0.08,0 -0.12,0 -0.2,-0.04 C 1.88,-5.04 1.72,-5.32 1.72,-5.6 1.76,-6.48 2,-16.08 2,-16.88 c 0,-0.44 -0.36,-0.68 -0.76,-0.68 -0.56,0 -1.2,0.4 -1.24,1.12 0,0 0.16,22.84 0.48,23.24 m 1.4,-3.56 c 0,0 -0.12,-2.4 -0.12,-4 0,-0.64 0.04,-1.12 0.08,-1.28 C 2.12,-2.84 3.72,-4 4.64,-4 5.8,-4 6.28,-2.68 6.28,-1.68 6.28,0.48 4.44,2.64 2.72,3.72 2.56,3.8 2.44,3.84 2.32,3.84 1.96,3.84 1.88,3.44 1.88,3.24"
+         id="path176" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,668.129,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g178">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text177" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g179" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,673.885,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g180">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path179" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,91.92)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g181">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text180" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g182" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,673.885,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g183">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path182" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g184">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text183" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g185" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,673.885,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g186">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path185" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,114.24)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g187">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text186" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g188" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,673.885,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g189">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path188" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,673.885,106.8)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g190">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text189" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,682.469,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g191" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,682.469,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g192">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 9.4,-5.48 c -5.8,0 -9.4,2.44 -9.4,5.4 0,2.92 2.48,5.52 8.96,5.52 7.12,0 9.4,-2.48 9.4,-5.52 0,-3.08 -4.92,-5.4 -8.96,-5.4 m -1.12,1 c 2.96,0 5.36,3.2 5.36,5.84 0,2.2 -1.36,3.08 -3.32,3.08 -2.88,0 -5.64,-3.32 -5.64,-6.12 0,-2.24 1.56,-2.8 3.6,-2.8"
+         id="path191" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,682.469,104.32)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g193">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text192" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,44.48,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g194" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       transform="matrix(0.5,0,0,0.5,44.48,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g195">
+      <path
+         vector-effect="none"
+         fill-rule="nonzero"
+         d="m 15.04,-16.6 c -0.08,-0.48 0,-0.52 0.24,-0.76 4.32,-4.04 7.6,-9.12 7.6,-15.24 0,-3.48 -0.96,-6.92 -2.6,-9.32 -0.6,-0.88 -1.64,-2 -2.08,-2 -0.56,0 -1.8,1.04 -2.6,1.92 -2.96,3.28 -3.92,8.28 -3.92,12.44 0,2.32 0.28,4.92 0.56,6.56 0.08,0.48 0.12,0.56 -0.36,0.96 C 6.12,-17.28 0,-11.56 0,-3.48 c 0,6.96 4.76,13.56 14.56,13.56 0.92,0 1.96,-0.08 2.76,-0.24 0.44,-0.08 0.52,-0.12 0.6,0.36 0.48,2.68 1.08,6.16 1.08,8.04 0,5.92 -4,6.64 -6.36,6.64 -2.16,0 -3.2,-0.64 -3.2,-1.16 0,-0.28 0.36,-0.4 1.28,-0.68 1.24,-0.36 2.68,-1.44 2.68,-3.76 0,-2.2 -1.4,-4.08 -3.84,-4.08 -2.68,0 -4.28,2.12 -4.28,4.6 0,2.6 1.56,6.52 7.6,6.52 2.68,0 7.88,-1.2 7.88,-8 0,-2.28 -0.72,-6.08 -1.16,-8.56 -0.08,-0.48 -0.04,-0.44 0.52,-0.68 4.04,-1.6 6.72,-5 6.72,-9.52 0,-5.12 -3.76,-9.64 -9.64,-9.64 -1.04,0 -1.04,0 -1.16,-0.72 l -1,-5.8 m 3.76,-21.12 c 1.32,0 2.4,1.08 2.4,3.28 0,4.44 -3.8,8.04 -6.96,10.8 -0.28,0.24 -0.44,0.2 -0.52,-0.32 -0.16,-1.04 -0.24,-2.4 -0.24,-3.68 0,-6.24 2.88,-10.08 5.32,-10.08 m -4.36,27.24 c 0.12,0.76 0.12,0.72 -0.6,0.96 -3.52,1.2 -5.8,4.36 -5.8,7.76 0,3.6 1.88,6.16 4.6,7.08 0.32,0.12 0.8,0.24 1.08,0.24 0.32,0 0.48,-0.2 0.48,-0.44 0,-0.28 -0.32,-0.4 -0.6,-0.52 -1.68,-0.72 -2.88,-2.44 -2.88,-4.28 0,-2.28 1.56,-4 4,-4.68 0.64,-0.16 0.72,-0.12 0.8,0.32 l 2,11.92 c 0.08,0.44 0.04,0.44 -0.56,0.56 -0.64,0.12 -1.44,0.2 -2.24,0.2 -7,0 -11.52,-3.88 -11.52,-9.44 0,-2.36 0.4,-5.52 3.72,-9.28 2.4,-2.68 4.24,-4.16 6.12,-5.68 0.4,-0.32 0.48,-0.28 0.56,0.16 l 0.84,5.12 m 2.76,6.36 c -0.08,-0.48 -0.04,-0.6 0.44,-0.56 3.24,0.28 5.92,3 5.92,6.52 0,2.52 -1.52,4.56 -3.76,5.68 -0.48,0.24 -0.56,0.24 -0.64,-0.24 L 17.2,-4.12"
+         id="path194" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,44.48,96.88)"
+       font-family="Bravura"
+       font-size="40px"
+       font-weight="400"
+       font-style="normal"
+       id="g196">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="0"
+         y="0"
+         font-family="'.AppleSystemUIFont'"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text195" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,256.19,55.5053)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g197">
+      <path
+         d="m 4.5009766,-13.771484 v 5.7255856 h 2.6533203 q 0.9130859,0 1.3320312,-0.397461 0.4296875,-0.4082031 0.569336,-1.6005856 H 9.453125 v 4.9306638 H 9.0556641 Q 9.0449219,-5.9619141 8.8300781,-6.359375 8.6259766,-6.7568359 8.25,-6.9501953 7.8847656,-7.1542969 7.1542969,-7.1542969 H 4.5009766 v 4.5761719 q 0,1.1064453 0.1396484,1.4609375 0.1074219,0.26855469 0.4511719,0.46191406 0.4726562,0.2578125 0.9882812,0.2578125 H 6.6064453 V 0 H 0.35449219 v -0.39746094 h 0.515625 q 0.90234371,0 1.31054691,-0.52636719 Q 2.4384766,-1.2675781 2.4384766,-2.578125 v -9.410156 q 0,-1.106446 -0.1396485,-1.460938 -0.1074218,-0.268554 -0.4404297,-0.461914 -0.461914,-0.257812 -0.98828121,-0.257812 h -0.515625 v -0.397461 H 11.193359 l 0.139649,3.201172 h -0.375977 q -0.279297,-1.020508 -0.655273,-1.493164 -0.3652346,-0.483399 -0.9130861,-0.698243 -0.5371094,-0.214843 -1.6757813,-0.214843 z"
+         id="text196"
+         style="fill:#000000;stroke:none"
+         aria-label="F" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,463.967,55.5053)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g198">
+      <path
+         d="m 10.162109,-7.4335937 q 1.514649,0.3222656 2.266602,1.03125 1.041992,0.9882812 1.041992,2.4169921 0,1.084961 -0.6875,2.0839844 -0.6875,0.98828126 -1.890625,1.45019532 Q 9.7001953,0 7.2402344,0 H 0.36523438 v -0.39746094 h 0.54785156 q 0.91308596,0 1.31054686,-0.58007812 Q 2.4707031,-1.3535156 2.4707031,-2.578125 v -9.410156 q 0,-1.353516 -0.3115234,-1.708008 -0.4189453,-0.472656 -1.24609376,-0.472656 H 0.36523438 v -0.397461 H 6.6601562 q 1.7617188,0 2.8251954,0.257812 1.6113284,0.386719 2.4599614,1.375 0.848632,0.977539 0.848632,2.25586 0,1.0957027 -0.666015,1.9658199 -0.666016,0.859375 -1.965821,1.2783204 z M 4.5332031,-8.0136719 q 0.397461,0.075195 0.9023438,0.1181641 0.515625,0.032227 1.1279297,0.032227 1.5683593,0 2.352539,-0.3330079 0.7949219,-0.34375 1.2138674,-1.0419922 0.418945,-0.6982421 0.418945,-1.5253911 0,-1.27832 -1.0419921,-2.180664 -1.0419921,-0.902344 -3.040039,-0.902344 -1.0742188,0 -1.9335938,0.236328 z m 0,6.9609375 q 1.2460938,0.29003909 2.459961,0.29003909 1.9443359,0 2.9648437,-0.87011719 1.0205082,-0.8808594 1.0205082,-2.1699219 0,-0.8486328 -0.461914,-1.6328125 -0.461914,-0.7841797 -1.5039067,-1.2353515 -1.0419922,-0.4511719 -2.578125,-0.4511719 -0.6660156,0 -1.1386719,0.021484 -0.4726562,0.021484 -0.7626953,0.075195 z"
+         id="text197"
+         style="fill:#000000;stroke:none"
+         aria-label="B" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,534.13,55.5053)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g199">
+      <path
+         d="m 10.162109,-7.4335937 q 1.514649,0.3222656 2.266602,1.03125 1.041992,0.9882812 1.041992,2.4169921 0,1.084961 -0.6875,2.0839844 -0.6875,0.98828126 -1.890625,1.45019532 Q 9.7001953,0 7.2402344,0 H 0.36523438 v -0.39746094 h 0.54785156 q 0.91308596,0 1.31054686,-0.58007812 Q 2.4707031,-1.3535156 2.4707031,-2.578125 v -9.410156 q 0,-1.353516 -0.3115234,-1.708008 -0.4189453,-0.472656 -1.24609376,-0.472656 H 0.36523438 v -0.397461 H 6.6601562 q 1.7617188,0 2.8251954,0.257812 1.6113284,0.386719 2.4599614,1.375 0.848632,0.977539 0.848632,2.25586 0,1.0957027 -0.666015,1.9658199 -0.666016,0.859375 -1.965821,1.2783204 z M 4.5332031,-8.0136719 q 0.397461,0.075195 0.9023438,0.1181641 0.515625,0.032227 1.1279297,0.032227 1.5683593,0 2.352539,-0.3330079 0.7949219,-0.34375 1.2138674,-1.0419922 0.418945,-0.6982421 0.418945,-1.5253911 0,-1.27832 -1.0419921,-2.180664 -1.0419921,-0.902344 -3.040039,-0.902344 -1.0742188,0 -1.9335938,0.236328 z m 0,6.9609375 q 1.2460938,0.29003909 2.459961,0.29003909 1.9443359,0 2.9648437,-0.87011719 1.0205082,-0.8808594 1.0205082,-2.1699219 0,-0.8486328 -0.461914,-1.6328125 -0.461914,-0.7841797 -1.5039067,-1.2353515 -1.0419922,-0.4511719 -2.578125,-0.4511719 -0.6660156,0 -1.1386719,0.021484 -0.4726562,0.021484 -0.7626953,0.075195 z"
+         id="text198"
+         style="fill:#000000;stroke:none"
+         aria-label="B" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,603.581,55.5053)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g200">
+      <path
+         d="m 13.245117,-14.899414 0.333008,4.9521484 h -0.333008 q -0.666015,-2.2236324 -1.901367,-3.2011724 -1.235352,-0.977539 -2.9648437,-0.977539 -1.4501954,0 -2.6210938,0.741211 -1.1708984,0.730469 -1.8476562,2.341797 -0.6660157,1.6113284 -0.6660157,4.0068362 0,1.9765625 0.6337891,3.4267578 0.633789,1.4501953 1.9013672,2.2236328 1.2783203,0.77343751 2.9111328,0.77343751 1.4179683,0 2.5029293,-0.60156251 1.084961,-0.6123047 2.384766,-2.4169922 l 0.333008,0.2148438 q -1.095703,1.9443359 -2.556641,2.84667966 -1.4609373,0.90234375 -3.4697264,0.90234375 -3.6201172,0 -5.6074218,-2.68554691 -1.48242193,-1.9980468 -1.48242193,-4.7050781 0,-2.1806641 0.97753903,-4.0068358 0.9775391,-1.826172 2.6855469,-2.825195 1.71875,-1.009766 3.7490235,-1.009766 1.5791015,0 3.1152347,0.773437 0.451172,0.236329 0.644531,0.236329 0.290039,0 0.504883,-0.204102 0.279297,-0.290039 0.397461,-0.805664 z"
+         id="text199"
+         style="fill:#000000;stroke:none"
+         aria-label="C" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,610.864,55.5053)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g201">
+      <path
+         d="m 2.2128906,-14.566406 h 7.8095704 v 0.408203 L 5.1669922,0.30078125 H 3.9638672 L 8.3144531,-12.81543 H 4.3076172 q -1.2138672,0 -1.7294922,0.290039 Q 1.6757812,-12.03125 1.1279297,-11 l -0.31152345,-0.118164 z"
+         id="text200"
+         style="fill:#000000;stroke:none"
+         aria-label="7" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g202" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,69.0541,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g203" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,69.0541,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g204">
+      <path
+         d="M 10.334625,5.6114996 9.4278752,7.5877497 H 4.6848751 l -1.034625,2.11575 q 3.0806251,0.4533753 4.8825001,2.2901253 1.5461248,1.581 1.5461248,3.72 0,1.243875 -0.5114998,2.30175 -0.499875,1.057875 -1.267125,1.801875 -0.76725,0.744 -1.708875,1.197375 Q 5.2545001,21.654 3.8478751,21.654 q -1.41825,0 -2.0692501,-0.476625 -0.639375,-0.48825 -0.639375,-1.0695 0,-0.3255 0.267375,-0.569625 0.267375,-0.25575 0.67425,-0.25575 0.3022501,0 0.5231251,0.093 0.2325,0.093 0.778875,0.476625 0.871875,0.6045 1.767,0.6045 1.3601251,0 2.3831251,-1.023 1.034625,-1.034625 1.034625,-2.511 0,-1.429875 -0.918375,-2.662125 Q 6.7308752,13.016625 5.1150001,12.342375 3.8478751,11.81925 1.662375,11.737875 L 4.6848751,5.6114996 Z M 15.74025,7.2273747 V 10.7265 H 18.228 v 0.81375 h -2.48775 v 6.90525 q 0,1.034625 0.290625,1.395 0.30225,0.360375 0.76725,0.360375 0.383625,0 0.744,-0.2325 0.360375,-0.244125 0.558,-0.709125 H 18.5535 q -0.406875,1.13925 -1.150875,1.7205 -0.744,0.569625 -1.5345,0.569625 -0.53475,0 -1.04625,-0.290625 -0.5115,-0.30225 -0.755625,-0.848625 -0.244125,-0.558 -0.244125,-1.708875 v -7.161 H 12.1365 v -0.383625 q 0.639375,-0.25575 1.302,-0.86025 0.67425,-0.6161253 1.197375,-1.4531253 0.267375,-0.44175 0.744,-1.615875 z m 6.6495,-2.3831251 V 12.633 q 1.290375,-1.41825 2.046,-1.8135 0.755625,-0.406875 1.51125,-0.406875 0.90675,0 1.55775,0.499875 0.651,0.499875 0.964875,1.569375 0.220876,0.744 0.220876,2.72025 v 3.7665 q 0,1.011375 0.16275,1.383375 0.11625,0.279 0.39525,0.44175 0.279,0.16275 1.023,0.16275 V 21.375 H 25.04025 v -0.4185 h 0.244125 q 0.744,0 1.034625,-0.220875 0.290625,-0.2325 0.406875,-0.67425 0.03488,-0.186 0.03488,-1.09275 v -3.7665 q 0,-1.74375 -0.186,-2.290125 -0.174375,-0.546375 -0.569625,-0.81375 -0.39525,-0.279 -0.95325,-0.279 -0.569625,0 -1.18575,0.30225 -0.61613,0.30225 -1.47638,1.220625 v 5.6265 q 0,1.09275 0.11625,1.360125 0.127875,0.267375 0.453375,0.453375 Q 23.2965,20.9565 24.11025,20.9565 V 21.375 H 18.8325 v -0.4185 q 0.709125,0 1.116,-0.220875 0.2325,-0.11625 0.372,-0.44175 0.1395,-0.3255 0.1395,-1.32525 V 9.3314997 q 0,-1.825125 -0.093,-2.243625 -0.08138,-0.4185 -0.267375,-0.5696251 -0.174375,-0.151125 -0.476625,-0.151125 -0.244125,0 -0.7905,0.186 l -0.16275,-0.406875 3.18525,-1.302 z"
+         id="text203"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label="5th" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,69.0541,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g205" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g206" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,104.136,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g207" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,104.136,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g208">
+      <path
+         d="m 11.078625,15.5625 v 1.65075 H 8.9628752 V 21.375 H 7.0447502 V 17.21325 H 0.37200001 v -1.488 L 7.6841252,5.2859996 h 1.27875 V 15.5625 Z m -4.0338748,0 V 7.7388747 L 1.51125,15.5625 Z M 15.74025,7.2273747 V 10.7265 H 18.228 v 0.81375 h -2.48775 v 6.90525 q 0,1.034625 0.290625,1.395 0.30225,0.360375 0.76725,0.360375 0.383625,0 0.744,-0.2325 0.360375,-0.244125 0.558,-0.709125 H 18.5535 q -0.406875,1.13925 -1.150875,1.7205 -0.744,0.569625 -1.5345,0.569625 -0.53475,0 -1.04625,-0.290625 -0.5115,-0.30225 -0.755625,-0.848625 -0.244125,-0.558 -0.244125,-1.708875 v -7.161 H 12.1365 v -0.383625 q 0.639375,-0.25575 1.302,-0.86025 0.67425,-0.6161253 1.197375,-1.4531253 0.267375,-0.44175 0.744,-1.615875 z m 6.6495,-2.3831251 V 12.633 q 1.290375,-1.41825 2.046,-1.8135 0.755625,-0.406875 1.51125,-0.406875 0.90675,0 1.55775,0.499875 0.651,0.499875 0.964875,1.569375 0.220876,0.744 0.220876,2.72025 v 3.7665 q 0,1.011375 0.16275,1.383375 0.11625,0.279 0.39525,0.44175 0.279,0.16275 1.023,0.16275 V 21.375 H 25.04025 v -0.4185 h 0.244125 q 0.744,0 1.034625,-0.220875 0.290625,-0.2325 0.406875,-0.67425 0.03488,-0.186 0.03488,-1.09275 v -3.7665 q 0,-1.74375 -0.186,-2.290125 -0.174375,-0.546375 -0.569625,-0.81375 -0.39525,-0.279 -0.95325,-0.279 -0.569625,0 -1.18575,0.30225 -0.61613,0.30225 -1.47638,1.220625 v 5.6265 q 0,1.09275 0.11625,1.360125 0.127875,0.267375 0.453375,0.453375 Q 23.2965,20.9565 24.11025,20.9565 V 21.375 H 18.8325 v -0.4185 q 0.709125,0 1.116,-0.220875 0.2325,-0.11625 0.372,-0.44175 0.1395,-0.3255 0.1395,-1.32525 V 9.3314997 q 0,-1.825125 -0.093,-2.243625 -0.08138,-0.4185 -0.267375,-0.5696251 -0.174375,-0.151125 -0.476625,-0.151125 -0.244125,0 -0.7905,0.186 l -0.16275,-0.406875 3.18525,-1.302 z"
+         id="text207"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label="4th" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,104.136,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g209" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g210" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,139.217,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g211" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,139.217,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g212">
+      <path
+         d="m 1.209,8.6107497 q 0.67425,-1.592625 1.6972501,-2.4528751 1.034625,-0.871875 2.569125,-0.871875 1.8948751,0 2.9062501,1.23225 0.76725,0.9183751 0.76725,1.9646251 0,1.7205003 -2.16225,3.5572503 1.453125,0.569625 2.197125,1.6275 0.744,1.057875 0.744,2.48775 0,2.046 -1.302,3.545625 -1.69725,1.953 -4.9173751,1.953 -1.592625,0 -2.1738751,-0.39525 -0.56962498,-0.39525 -0.56962498,-0.848625 0,-0.337125 0.26737498,-0.592875 0.279,-0.25575 0.662625,-0.25575 0.2906251,0 0.5928751,0.093 0.197625,0.05813 0.895125,0.430125 0.6975,0.360375 0.964875,0.430125 0.430125,0.127875 0.918375,0.127875 1.1857501,0 2.0576251,-0.918375 0.8835,-0.918375 0.8835,-2.173875 0,-0.918375 -0.406875,-1.79025 -0.30225,-0.651 -0.662625,-0.988125 -0.499875,-0.465 -1.3717501,-0.837 -0.871875,-0.383625 -1.778625,-0.383625 h -0.372 v -0.34875 q 0.918375,-0.11625 1.83675,-0.662625 0.9300001,-0.546375 1.3485001,-1.313625 0.4185,-0.76725 0.4185,-1.6856253 0,-1.197375 -0.755625,-1.92975 -0.7440001,-0.744 -1.8600001,-0.744 -1.801875,0 -3.0108751,1.92975 z M 15.74025,7.2273747 V 10.7265 H 18.228 v 0.81375 h -2.48775 v 6.90525 q 0,1.034625 0.290625,1.395 0.30225,0.360375 0.76725,0.360375 0.383625,0 0.744,-0.2325 0.360375,-0.244125 0.558,-0.709125 H 18.5535 q -0.406875,1.13925 -1.150875,1.7205 -0.744,0.569625 -1.5345,0.569625 -0.53475,0 -1.04625,-0.290625 -0.5115,-0.30225 -0.755625,-0.848625 -0.244125,-0.558 -0.244125,-1.708875 v -7.161 H 12.1365 v -0.383625 q 0.639375,-0.25575 1.302,-0.86025 0.67425,-0.6161253 1.197375,-1.4531253 0.267375,-0.44175 0.744,-1.615875 z m 6.6495,-2.3831251 V 12.633 q 1.290375,-1.41825 2.046,-1.8135 0.755625,-0.406875 1.51125,-0.406875 0.90675,0 1.55775,0.499875 0.651,0.499875 0.964875,1.569375 0.220876,0.744 0.220876,2.72025 v 3.7665 q 0,1.011375 0.16275,1.383375 0.11625,0.279 0.39525,0.44175 0.279,0.16275 1.023,0.16275 V 21.375 H 25.04025 v -0.4185 h 0.244125 q 0.744,0 1.034625,-0.220875 0.290625,-0.2325 0.406875,-0.67425 0.03488,-0.186 0.03488,-1.09275 v -3.7665 q 0,-1.74375 -0.186,-2.290125 -0.174375,-0.546375 -0.569625,-0.81375 -0.39525,-0.279 -0.95325,-0.279 -0.569625,0 -1.18575,0.30225 -0.61613,0.30225 -1.47638,1.220625 v 5.6265 q 0,1.09275 0.11625,1.360125 0.127875,0.267375 0.453375,0.453375 Q 23.2965,20.9565 24.11025,20.9565 V 21.375 H 18.8325 v -0.4185 q 0.709125,0 1.116,-0.220875 0.2325,-0.11625 0.372,-0.44175 0.1395,-0.3255 0.1395,-1.32525 V 9.3314997 q 0,-1.825125 -0.093,-2.243625 -0.08138,-0.4185 -0.267375,-0.5696251 -0.174375,-0.151125 -0.476625,-0.151125 -0.244125,0 -0.7905,0.186 l -0.16275,-0.406875 3.18525,-1.302 z"
+         id="text211"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label="3th" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,139.217,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g213" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g214" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,174.299,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g215" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,174.299,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g216">
+      <path
+         d="M 10.915875,18.340875 9.8115002,21.375 H 0.51150001 v -0.430125 q 4.10362509,-3.74325 5.77762509,-6.11475 1.6740001,-2.3715 1.6740001,-4.336125 0,-1.4996253 -0.918375,-2.4645003 -0.9183751,-0.964875 -2.1971251,-0.964875 -1.1625,0 -2.0925,0.685875 Q 1.83675,8.4247497 1.395,9.7383747 H 0.96487502 Q 1.2555,7.5877497 2.4528751,6.4368746 q 1.209,-1.150875 3.010875,-1.150875 1.9181251,0 3.1968751,1.23225 1.290375,1.2322501 1.290375,2.9062501 0,1.1973753 -0.558,2.3947503 -0.86025,1.88325 -2.79,3.987375 -2.8946251,3.162 -3.6153751,3.813 h 4.1152501 q 1.2555,0 1.755375,-0.093 0.5115,-0.093 0.918375,-0.372 Q 10.1835,18.864 10.48575,18.340875 Z m 4.836,-5.673 q 1.871625,-2.25525 3.568875,-2.25525 0.871875,0 1.499625,0.44175 0.627751,0.430125 0.999751,1.429875 0.25575,0.6975 0.25575,2.139 v 4.545375 q 0,1.011375 0.16275,1.37175 0.127875,0.290625 0.406875,0.453375 0.290625,0.16275 1.057875,0.16275 V 21.375 H 18.43725 v -0.4185 h 0.220875 q 0.744,0 1.034625,-0.220875 0.30225,-0.2325 0.4185,-0.67425 0.0465,-0.174375 0.0465,-1.09275 V 14.60925 q 0,-1.453125 -0.383625,-2.104125 -0.372,-0.662625 -1.267125,-0.662625 -1.383375,0 -2.755125,1.51125 v 5.614875 q 0,1.081125 0.127875,1.336875 0.16275,0.337125 0.44175,0.499875 0.290625,0.151125 1.1625,0.151125 v 0.4185 h -5.266125 v -0.4185 h 0.2325 q 0.81375,0 1.09275,-0.406875 0.290625,-0.4185 0.290625,-1.581 v -3.9525 q 0,-1.918125 -0.093,-2.336625 Q 13.659375,12.261 13.473375,12.109875 13.299,11.95875 12.99675,11.95875 q -0.3255,0 -0.778875,0.174375 l -0.174375,-0.4185 3.2085,-1.302 h 0.499875 z m 16.321501,7.50975 q -0.778875,0.81375 -1.522875,1.174125 -0.744,0.34875 -1.60425,0.34875 -1.74375,0 -3.04575,-1.453125 -1.302,-1.46475 -1.302,-3.754875 0,-2.290125 1.4415,-4.185 1.4415,-1.9065 3.708375,-1.9065 1.406625,0 2.325,0.895125 V 9.3314997 q 0,-1.825125 -0.093,-2.243625 -0.08138,-0.4185 -0.267375,-0.5696251 -0.186,-0.151125 -0.465,-0.151125 -0.30225,0 -0.802125,0.186 l -0.151125,-0.406875 3.173625,-1.302 h 0.523125 V 17.155125 q 0,1.871625 0.08138,2.290125 0.093,0.406875 0.279,0.569625 0.197625,0.16275 0.453375,0.16275 0.313875,0 0.837,-0.197625 l 0.127875,0.406875 -3.162,1.313625 h -0.53475 z m 0,-0.81375 v -5.487 q -0.06975,-0.7905 -0.4185,-1.4415 -0.34875,-0.651 -0.93,-0.9765 -0.569625,-0.337125 -1.116,-0.337125 -1.023,0 -1.825125,0.918375 -1.057875,1.209 -1.057875,3.534 0,2.34825 1.023,3.60375 1.023,1.243875 2.2785,1.243875 1.057875,0 2.046,-1.057875 z"
+         id="text215"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label="2nd" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,174.299,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g217" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g218" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,209.381,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g219" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,209.381,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g220">
+      <path
+         d="M 2.7900001,7.1576247 6.6262502,5.2859996 h 0.383625 V 18.596625 q 0,1.32525 0.104625,1.65075 0.11625,0.3255 0.465,0.499875 0.34875,0.174375 1.41825,0.197625 V 21.375 H 3.0690001 v -0.430125 q 1.116,-0.02325 1.4415,-0.186 0.3255,-0.174375 0.453375,-0.453375 0.127875,-0.290625 0.127875,-1.708875 v -8.5095 q 0,-1.7205003 -0.11625,-2.2087503 -0.081375,-0.372 -0.30225,-0.546375 -0.20925,-0.174375 -0.5115,-0.174375 -0.430125,0 -1.197375,0.360375 z M 19.53,10.412625 v 3.627 h -0.383625 q -0.44175,-1.708875 -1.13925,-2.325 Q 17.32125,11.0985 16.25175,11.0985 q -0.81375,0 -1.313625,0.430125 -0.499875,0.430125 -0.499875,0.95325 0,0.651 0.372,1.116 0.360375,0.476625 1.46475,1.011375 l 1.69725,0.825375 q 2.359875,1.150875 2.359875,3.034125 0,1.453125 -1.104375,2.34825 -1.09275,0.8835 -2.452875,0.8835 -0.9765,0 -2.232,-0.34875 -0.383625,-0.11625 -0.62775,-0.11625 -0.267375,0 -0.4185,0.30225 H 13.113 v -3.801375 h 0.383625 q 0.3255,1.6275 1.243875,2.452875 0.918375,0.825375 2.057625,0.825375 0.802125,0 1.302,-0.465 0.5115,-0.476625 0.5115,-1.13925 0,-0.802125 -0.569625,-1.3485 Q 17.484,17.5155 15.798375,16.6785 14.11275,15.8415 13.589625,15.16725 13.0665,14.504625 13.0665,13.49325 q 0,-1.313625 0.895125,-2.197125 0.90675,-0.8835 2.336625,-0.8835 0.62775,0 1.522875,0.267375 0.592875,0.174375 0.7905,0.174375 0.186,0 0.290625,-0.08137 0.104625,-0.08137 0.244125,-0.360375 z M 25.005375,7.2273747 V 10.7265 h 2.48775 v 0.81375 h -2.48775 v 6.90525 q 0,1.034625 0.290625,1.395 0.30225,0.360375 0.76725,0.360375 0.383625,0 0.744,-0.2325 0.360375,-0.244125 0.558,-0.709125 h 0.453375 q -0.406875,1.13925 -1.150875,1.7205 -0.744,0.569625 -1.5345,0.569625 -0.53475,0 -1.04625,-0.290625 -0.5115,-0.30225 -0.755625,-0.848625 -0.244125,-0.558 -0.244125,-1.708875 v -7.161 h -1.685625 v -0.383625 q 0.639375,-0.25575 1.302,-0.86025 0.67425,-0.6161253 1.197375,-1.4531253 0.267375,-0.44175 0.744,-1.615875 z"
+         id="text219"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label="1st" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,209.381,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g221" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g222" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,454.624,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g223" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,454.624,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g224">
+      <path
+         d="M 7.3935002,26.036625 V 26.46675 Q 5.6381251,25.58325 4.4640001,24.3975 2.7900001,22.711875 1.88325,20.42175 0.97650002,18.131625 0.97650002,15.667125 q 0,-3.60375 1.77862508,-6.5681253 1.778625,-2.9760001 4.6383751,-4.2547501 v 0.48825 q -1.4298751,0.7905 -2.3482501,2.1622501 -0.918375,1.37175 -1.37175,3.4758753 -0.453375,2.104125 -0.453375,4.39425 0,2.48775 0.383625,4.522125 0.30225,1.60425 0.732375,2.569125 0.430125,0.9765 1.150875,1.871625 0.732375,0.895125 1.9065001,1.708875 z"
+         id="text223"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label="(" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,454.624,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g225" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g226" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,498.476,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g227" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,498.476,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g228">
+      <path
+         d="M 12.62475,4.8442496 6.9168752,21.7005 H 5.9868751 L 11.69475,4.8442496 Z"
+         id="text227"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label=" /" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,498.476,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g229" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g230" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,551.099,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g231" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="matrix(0.5,0,0,0.5,551.099,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g232">
+      <path
+         d="m 0.53475001,5.3324996 v -0.48825 q 1.76700009,0.871875 2.94112509,2.0576251 1.662375,1.69725 2.569125,3.9873753 0.9067501,2.2785 0.9067501,4.754625 0,3.60375 -1.7786251,6.568125 -1.767,2.976 -4.63837509,4.25475 V 26.036625 Q 1.964625,25.2345 2.8830001,23.86275 q 0.93,-1.360125 1.37175,-3.46425 0.453375,-2.11575 0.453375,-4.405875 0,-2.476125 -0.383625,-4.522125 -0.290625,-1.6042503 -0.732375,-2.5691253 -0.430125,-0.964875 -1.150875,-1.86 Q 1.7205,6.1462496 0.53475001,5.3324996 Z"
+         id="text231"
+         style="font-size:23.808px;fill:#000000;stroke:none"
+         aria-label=")" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       transform="matrix(0.5,0,0,0.5,551.099,56.4325)"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g233" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.826667"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g234" />
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g235">
+      <path
+         id="rect234"
+         d="m 252.90401,62.945301 h 12.4 v 8.928001 h -12.4 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g236">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 252.904,62.9453 h 12.4 v 8.928 h -12.4 v -8.928"
+         id="path235" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g237">
+      <path
+         id="rect236"
+         d="m 323.06799,62.945301 h 12.4 v 8.928001 h -12.4 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g238">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 323.068,62.9453 h 12.4 v 8.928 h -12.4 v -8.928"
+         id="path237" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g239">
+      <path
+         id="rect238"
+         d="m 393.23099,62.945301 h 12.4 v 8.928001 h -12.4 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g240">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 393.231,62.9453 h 12.4 v 8.928 h -12.4 v -8.928"
+         id="path239" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g241">
+      <path
+         id="rect240"
+         d="m 463.39499,62.945301 h 12.4 v 8.928001 h -12.4 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g242">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 463.395,62.9453 h 12.4 v 8.928 h -12.4 v -8.928"
+         id="path241" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g243">
+      <path
+         id="rect242"
+         d="m 533.55798,62.945301 h 12.4 v 8.928001 h -12.4 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g244">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 533.558,62.9453 h 12.4 v 8.928 h -12.4 v -8.928"
+         id="path243" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g245">
+      <path
+         id="rect244"
+         d="m 603.72101,62.945301 h 12.4 v 8.928001 h -12.4 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g246">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 603.721,62.9453 h 12.4 v 8.928 h -12.4 v -8.928"
+         id="path245" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g247">
+      <path
+         id="rect246"
+         d="m 673.88501,62.945301 h 12.4 v 8.928001 h -12.4 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g248">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 673.885,62.9453 h 12.4 v 8.928 h -12.4 v -8.928"
+         id="path247" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1.24"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g249">
+      <path
+         id="polyline248"
+         style="vector-effect:none;fill:none"
+         d="m 252.698,62.532 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g256">
+      <path
+         id="polyline249"
+         style="vector-effect:none;fill:none"
+         d="m 252.904,62.9453 v 8.928" />
+      <path
+         id="polyline250"
+         style="vector-effect:none;fill:none"
+         d="m 256.004,62.9453 v 8.928" />
+      <path
+         id="polyline251"
+         style="vector-effect:none;fill:none"
+         d="m 259.104,62.9453 v 8.928" />
+      <path
+         id="polyline252"
+         style="vector-effect:none;fill:none"
+         d="m 262.204,62.9453 v 8.928" />
+      <path
+         id="polyline253"
+         style="vector-effect:none;fill:none"
+         d="m 265.304,62.9453 v 8.928" />
+      <path
+         id="polyline254"
+         style="vector-effect:none;fill:none"
+         d="m 252.698,65.9213 h 12.813" />
+      <path
+         id="polyline255"
+         style="vector-effect:none;fill:none"
+         d="m 252.698,68.8973 h 12.813" />
+      <path
+         id="polyline256"
+         style="vector-effect:none;fill:none"
+         d="m 252.698,71.8733 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1.24"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g257">
+      <path
+         id="polyline257"
+         style="vector-effect:none;fill:none"
+         d="m 322.861,62.532 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g265">
+      <path
+         id="polyline258"
+         style="vector-effect:none;fill:none"
+         d="m 323.068,62.9453 v 8.928" />
+      <path
+         id="polyline259"
+         style="vector-effect:none;fill:none"
+         d="m 326.168,62.9453 v 8.928" />
+      <path
+         id="polyline260"
+         style="vector-effect:none;fill:none"
+         d="m 329.268,62.9453 v 8.928" />
+      <path
+         id="polyline261"
+         style="vector-effect:none;fill:none"
+         d="m 332.368,62.9453 v 8.928" />
+      <path
+         id="polyline262"
+         style="vector-effect:none;fill:none"
+         d="m 335.468,62.9453 v 8.928" />
+      <path
+         id="polyline263"
+         style="vector-effect:none;fill:none"
+         d="m 322.861,65.9213 h 12.813" />
+      <path
+         id="polyline264"
+         style="vector-effect:none;fill:none"
+         d="m 322.861,68.8973 h 12.813" />
+      <path
+         id="polyline265"
+         style="vector-effect:none;fill:none"
+         d="m 322.861,71.8733 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1.24"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g266">
+      <path
+         id="polyline266"
+         style="vector-effect:none;fill:none"
+         d="m 393.025,62.532 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g274">
+      <path
+         id="polyline267"
+         style="vector-effect:none;fill:none"
+         d="m 393.231,62.9453 v 8.928" />
+      <path
+         id="polyline268"
+         style="vector-effect:none;fill:none"
+         d="m 396.331,62.9453 v 8.928" />
+      <path
+         id="polyline269"
+         style="vector-effect:none;fill:none"
+         d="m 399.431,62.9453 v 8.928" />
+      <path
+         id="polyline270"
+         style="vector-effect:none;fill:none"
+         d="m 402.531,62.9453 v 8.928" />
+      <path
+         id="polyline271"
+         style="vector-effect:none;fill:none"
+         d="m 405.631,62.9453 v 8.928" />
+      <path
+         id="polyline272"
+         style="vector-effect:none;fill:none"
+         d="m 393.025,65.9213 h 12.813" />
+      <path
+         id="polyline273"
+         style="vector-effect:none;fill:none"
+         d="m 393.025,68.8973 h 12.813" />
+      <path
+         id="polyline274"
+         style="vector-effect:none;fill:none"
+         d="m 393.025,71.8733 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1.24"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g275">
+      <path
+         id="polyline275"
+         style="vector-effect:none;fill:none"
+         d="m 463.188,62.532 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g283">
+      <path
+         id="polyline276"
+         style="vector-effect:none;fill:none"
+         d="m 463.395,62.9453 v 8.928" />
+      <path
+         id="polyline277"
+         style="vector-effect:none;fill:none"
+         d="m 466.495,62.9453 v 8.928" />
+      <path
+         id="polyline278"
+         style="vector-effect:none;fill:none"
+         d="m 469.595,62.9453 v 8.928" />
+      <path
+         id="polyline279"
+         style="vector-effect:none;fill:none"
+         d="m 472.695,62.9453 v 8.928" />
+      <path
+         id="polyline280"
+         style="vector-effect:none;fill:none"
+         d="m 475.795,62.9453 v 8.928" />
+      <path
+         id="polyline281"
+         style="vector-effect:none;fill:none"
+         d="m 463.188,65.9213 h 12.813" />
+      <path
+         id="polyline282"
+         style="vector-effect:none;fill:none"
+         d="m 463.188,68.8973 h 12.813" />
+      <path
+         id="polyline283"
+         style="vector-effect:none;fill:none"
+         d="m 463.188,71.8733 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1.24"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g284">
+      <path
+         id="polyline284"
+         style="vector-effect:none;fill:none"
+         d="m 533.351,62.532 h 12.814" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g292">
+      <path
+         id="polyline285"
+         style="vector-effect:none;fill:none"
+         d="m 533.558,62.9453 v 8.928" />
+      <path
+         id="polyline286"
+         style="vector-effect:none;fill:none"
+         d="m 536.658,62.9453 v 8.928" />
+      <path
+         id="polyline287"
+         style="vector-effect:none;fill:none"
+         d="m 539.758,62.9453 v 8.928" />
+      <path
+         id="polyline288"
+         style="vector-effect:none;fill:none"
+         d="m 542.858,62.9453 v 8.928" />
+      <path
+         id="polyline289"
+         style="vector-effect:none;fill:none"
+         d="m 545.958,62.9453 v 8.928" />
+      <path
+         id="polyline290"
+         style="vector-effect:none;fill:none"
+         d="m 533.351,65.9213 h 12.814" />
+      <path
+         id="polyline291"
+         style="vector-effect:none;fill:none"
+         d="m 533.351,68.8973 h 12.814" />
+      <path
+         id="polyline292"
+         style="vector-effect:none;fill:none"
+         d="m 533.351,71.8733 h 12.814" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1.24"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g293">
+      <path
+         id="polyline293"
+         style="vector-effect:none;fill:none"
+         d="m 603.515,62.532 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g301">
+      <path
+         id="polyline294"
+         style="vector-effect:none;fill:none"
+         d="m 603.721,62.9453 v 8.928" />
+      <path
+         id="polyline295"
+         style="vector-effect:none;fill:none"
+         d="m 606.821,62.9453 v 8.928" />
+      <path
+         id="polyline296"
+         style="vector-effect:none;fill:none"
+         d="m 609.921,62.9453 v 8.928" />
+      <path
+         id="polyline297"
+         style="vector-effect:none;fill:none"
+         d="m 613.021,62.9453 v 8.928" />
+      <path
+         id="polyline298"
+         style="vector-effect:none;fill:none"
+         d="m 616.121,62.9453 v 8.928" />
+      <path
+         id="polyline299"
+         style="vector-effect:none;fill:none"
+         d="m 603.515,65.9213 h 12.813" />
+      <path
+         id="polyline300"
+         style="vector-effect:none;fill:none"
+         d="m 603.515,68.8973 h 12.813" />
+      <path
+         id="polyline301"
+         style="vector-effect:none;fill:none"
+         d="m 603.515,71.8733 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1.24"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g302">
+      <path
+         id="polyline302"
+         style="vector-effect:none;fill:none"
+         d="m 673.678,62.532 h 12.813" />
+    </g>
+    <g
+       fill="none"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g310">
+      <path
+         id="polyline303"
+         style="vector-effect:none;fill:none"
+         d="m 673.885,62.9453 v 8.928" />
+      <path
+         id="polyline304"
+         style="vector-effect:none;fill:none"
+         d="m 676.985,62.9453 v 8.928" />
+      <path
+         id="polyline305"
+         style="vector-effect:none;fill:none"
+         d="m 680.085,62.9453 v 8.928" />
+      <path
+         id="polyline306"
+         style="vector-effect:none;fill:none"
+         d="m 683.185,62.9453 v 8.928" />
+      <path
+         id="polyline307"
+         style="vector-effect:none;fill:none"
+         d="m 686.285,62.9453 v 8.928" />
+      <path
+         id="polyline308"
+         style="vector-effect:none;fill:none"
+         d="m 673.678,65.9213 h 12.813" />
+      <path
+         id="polyline309"
+         style="vector-effect:none;fill:none"
+         d="m 673.678,68.8973 h 12.813" />
+      <path
+         id="polyline310"
+         style="vector-effect:none;fill:none"
+         d="m 673.678,71.8733 h 12.813" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g311">
+      <path
+         id="ellipse310"
+         d="m 266.54399,70.3853 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g312">
+      <path
+         id="ellipse311"
+         d="m 263.44401,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g313">
+      <path
+         id="ellipse312"
+         d="m 260.344,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g314">
+      <path
+         id="ellipse313"
+         d="m 257.244,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g315">
+      <path
+         id="ellipse314"
+         d="m 254.14401,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g316">
+      <path
+         id="ellipse315"
+         d="m 336.70799,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g317">
+      <path
+         id="ellipse316"
+         d="m 333.60801,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g318">
+      <path
+         id="ellipse317"
+         d="m 330.50801,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g319">
+      <path
+         id="ellipse318"
+         d="m 327.408,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g320">
+      <path
+         id="ellipse319"
+         d="m 324.30799,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g321">
+      <path
+         id="ellipse320"
+         d="m 406.87101,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g322">
+      <path
+         id="ellipse321"
+         d="m 403.77101,64.433296 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g323">
+      <path
+         id="ellipse322"
+         d="m 400.671,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g324">
+      <path
+         id="ellipse323"
+         d="m 397.57099,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g325">
+      <path
+         id="ellipse324"
+         d="m 394.47099,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g326">
+      <path
+         id="ellipse325"
+         d="m 477.03501,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g327">
+      <path
+         id="ellipse326"
+         d="m 473.93501,64.433296 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g328">
+      <path
+         id="ellipse327"
+         d="m 470.835,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g329">
+      <path
+         id="ellipse328"
+         d="m 467.735,67.409302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g330">
+      <path
+         id="ellipse329"
+         d="m 464.63499,70.3853 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g331">
+      <path
+         id="ellipse330"
+         d="m 547.19801,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g332">
+      <path
+         id="ellipse331"
+         d="m 544.09797,64.433296 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g333">
+      <path
+         id="ellipse332"
+         d="m 540.998,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g334">
+      <path
+         id="ellipse333"
+         d="m 537.89802,67.409302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g335">
+      <path
+         id="ellipse334"
+         d="m 534.79798,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g336">
+      <path
+         id="ellipse335"
+         d="m 617.36097,67.409302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g337">
+      <path
+         id="ellipse336"
+         d="m 614.261,64.433296 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g338">
+      <path
+         id="ellipse337"
+         d="m 611.16102,67.409302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g339">
+      <path
+         id="ellipse338"
+         d="m 608.06098,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g340">
+      <path
+         id="ellipse339"
+         d="m 604.96101,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g341">
+      <path
+         id="ellipse340"
+         d="m 687.52497,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g342">
+      <path
+         id="ellipse341"
+         d="m 684.425,64.433296 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="none"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g343">
+      <path
+         id="ellipse342"
+         d="m 681.32502,67.409302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g344">
+      <path
+         id="ellipse343"
+         d="m 678.22499,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="0.413333"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g345">
+      <path
+         id="ellipse344"
+         d="m 675.12501,60.465302 a 1.24,1.24 0 0 1 -1.24,1.24 1.24,1.24 0 0 1 -1.24,-1.24 1.24,1.24 0 0 1 1.24,-1.24 1.24,1.24 0 0 1 1.24,1.24 z" />
+    </g>
+    <g
+       fill="none"
+       stroke="#11cc00"
+       stroke-opacity="1"
+       stroke-width="2"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       font-family="'Times New Roman'"
+       font-size="22px"
+       font-weight="400"
+       font-style="normal"
+       id="g346" />
+  </g>
+  <metadata
+     id="metadata347">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>01 - Full score - Untitled Project 1 - 001</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>
